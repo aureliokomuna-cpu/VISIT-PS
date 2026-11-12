@@ -1,0 +1,7 @@
+{
+  "name": "Buyer Visit Tracker & Analytics",
+  "description": "Aplikasi pelaporan kunjungan Buyer per departemen dengan integrasi Google Sheets, dokumentasi foto before-after, ekspor PDF mingguan, dan dasbor analitik real-time.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
